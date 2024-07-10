@@ -10,10 +10,10 @@ import (
 
 const (
     host     = "timedb.cnygsg46imst.us-east-2.rds.amazonaws.com"
-    port     = 5432 // Default port
-    user     = "postgres"
-    password = "Flyersrock101"
-    dbname   = "postgres"
+    port     =  // Default port
+    user     = ""
+    password = ""
+    dbname   = ""
 )
 
 func ConnectDB() *sql.DB {
