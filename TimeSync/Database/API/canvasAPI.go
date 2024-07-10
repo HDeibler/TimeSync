@@ -10,7 +10,7 @@ import (
 
 const (
 	canvasBaseURL = "https://lvc.instructure.com/api/v1/"
-	accessToken   = "5328~pSg9bxO4WG7UmxDbYUIPZ1oyIMIpElwnMJNRfIZzK6MO0u2DAsitfKB7Vvqxk5wC" // Use an environment variable or secure storage for the token
+	accessToken   = "" // Use an environment variable or secure storage for the token
 )
 
 
