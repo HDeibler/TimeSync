@@ -9,7 +9,7 @@ import (
 )
 
 func NewClient() *openai.Client {
-	apiKey := "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"
+	apiKey := ""
 	client := openai.NewClient(apiKey)
 	return client
 }
